@@ -29,6 +29,9 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="HTML5" width="26px" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" />
+<img align="left" alt="HTML5" width="26px" src="https://lh3.googleusercontent.com/proxy/wwHA4CW4th3Klrm1AYmYCq9qP-vlqOcf0r-c0vm28-uEN-J61tWSQdbGw9C4qgPwFbCDMD9SV7zC3JJZJKmtZ9gEm_0-8rUflJ6BX5wHFd3nbpZl97w" />
+<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" />
 
 <br />
 <br />
