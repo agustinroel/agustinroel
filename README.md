@@ -1,10 +1,10 @@
 ### Hi there, I'm Agustín Roel 👋
 
 ## I'm an Esports Psychologist, Fullstack Web Developer and Esports Teacher!
--   👨‍💻 I've completed a 800 hour Fullstack Web Development bootcamp at Ubiqum Code Academy!
+-   👨‍💻 I've completed a 800 hour Fullstack Web Development bootcamp at Ubiqum Code Academy and I've been working with SAPUI5 at TGV!
 -   👨‍🎓 I'm learning new things every day 🤣
 -   👾 I love videogames
--   👀 2020 Goals: Start a new job in Software Development!
+-   👀 2021 Goals: Start a new job in Software Development in Barcelona!
 -   ⚡ Fun fact: I'm not a good singer, but someday I will be.
 
 ### Connect with me:
