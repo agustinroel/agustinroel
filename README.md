@@ -32,7 +32,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" />
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
-<img align="left" alt="HTML5" width="26px" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" />
+<img align="left" alt="HTML5" width="26px" src="https://www.asapdevelopers.com/wp-content/uploads/2019/04/next_js.png" />
 
 <br />
 <br />
