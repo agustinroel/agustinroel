@@ -1,7 +1,7 @@
 ### Hi there, I'm Agustín Roel 👋
 
-## I'm an Esports Psychologist, Fullstack Web Developer and Esports Teacher!
--   👨‍💻 I've completed a 800 hour Fullstack Web Development bootcamp at Ubiqum Code Academy and I've been working with SAPUI5 at TGV!
+## I'm a Fullstack Web Developer, Esports Psychologist and Esports Teacher!
+-   👨‍💻 I've took charge of a full project for Santander Bank working for NTT DATA Europe & LATAM.
 -   👨‍🎓 I'm learning new things every day 🤣
 -   👾 I love videogames
 -   👀 2021 Goals: Start a new job in Software Development in Barcelona!
