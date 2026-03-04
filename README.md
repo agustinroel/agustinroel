@@ -1,47 +1,90 @@
-### Hi there, I'm Agustín Roel 👋
+# Hi, I'm Agustín Roel 👋
 
-## I'm a Fullstack Web Developer, Esports Psychologist and Esports Teacher!
--   👨‍💻 I've took charge of a full project for Santander Bank working for NTT DATA Europe & LATAM.
--   👨‍🎓 I'm learning new things every day 🤣
--   👾 I love videogames
--   👀 2021 Goals: Start a new job in Software Development in Barcelona!
--   ⚡ Fun fact: I'm not a good singer, but someday I will be.
+## 🚀 Senior Frontend Engineer | Angular Specialist | Future Game Developer
 
-### Connect with me:
+I'm a Frontend Engineer with 6+ years of experience building scalable enterprise applications with Angular.
 
-[<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+I specialize in complex UI architectures, dynamic forms, role-based systems and high-performance frontend solutions.
 
-[<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="26px" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" />
-<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
-<img align="left" alt="HTML5" width="26px" src="https://www.asapdevelopers.com/wp-content/uploads/2019/04/next_js.png" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" />
-
-<br />
-<br />
+Currently expanding into:
+- 🎮 Game Development (Unity & Unreal Engine 5)
+- 🤖 AI-assisted development workflows
+- 🧠 Product building & system design
 
 ---
 
-<img align="left" alt="Agustin Roel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=agustinroel&show_icons=true&hide_border=true" />
+## 💼 Professional Highlights
 
-[twitter]: https://twitter.com/agus_roel
-[instagram]: https://instagram.com/agus.roel
-[linkedin]: https://www.linkedin.com/in/agustinroel/
+- 🏦 Led frontend development for banking projects at Santander (via NTT DATA Europe & LATAM)
+- 🧩 Built large-scale dynamic wizard systems (JSON-driven, multi-entity architecture)
+- 🔄 Designed auto-save systems & complex state management solutions
+- 🧪 Strong focus on testing (Jest) & maintainable architectures
+- 📊 Implemented CSV export systems matching backend import contracts
+- 👥 Experience with role-based access control systems
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
+</p>
+
+### Backend & Data
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+</p>
+
+### Testing & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+</p>
+
+### Game Development (Learning & Building)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+</p>
+
+---
+
+## 🧠 Current Focus
+
+- Architecting complex Angular systems with clean abstractions
+- Reducing technical debt in large legacy components
+- Building internal dev automation workflows
+- Transitioning towards C++ and real-time systems
+- Designing and building my own products
+
+---
+
+## 📈 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=agustinroel&show_icons=true&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 📫 Connect with me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/agustinroel/
+- 🐦 X: https://X.com/agus_roel
+- 📸 Instagram: https://instagram.com/agus.roel
+
+---
+
+> ⚡ Fun fact: I'm still not a good singer… but now I build complex frontend systems and I’m learning game engines. Fair trade.
